@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons'
 
 const DemoScreen = () => {
   return (
-    <SafeAreaView className='bg-black flex-1 p-4'>
+    <SafeAreaView className='bg-[#494949] flex-1 p-4'>
         <View className='items-center justify-center p-6 '>
       <Text className='text-white text-4xl capitalize mb-4'>hooray!</Text>
       <Text className='text-white text-2xl'>you have access to this feature</Text>
